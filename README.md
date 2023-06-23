@@ -1,5 +1,8 @@
-#     Digital Banking  Project
+
+  <h1> <center> Digital Banking  Project </center></h1>
+
 ---------------------------------------
+
 <h2> <b><i>Digital Banking Backend </i> </b></h2>
  
 <h3> Link : https://github.com/hayatelallaouy01/Digital_Banking_Project/tree/master/Digital-Banking-Backend <h3/>
