@@ -6,6 +6,9 @@
 <h2> <b><i>Digital Banking Backend </i> </b></h2>
  
 <h3> Link : https://github.com/hayatelallaouy01/Digital_Banking_Project/tree/master/Digital-Banking-Backend <h3/>
+
+</Br>
+
 <h4> Strcture de Digital Banking Backend  <h3/>
  
   ![image](https://github.com/hayatelallaouy01/Digital_Banking_Project/assets/123452386/47e292ca-f76b-4595-b830-a0b0d73d3700)
@@ -33,6 +36,14 @@
 <h2> <b><i>Digital Banking Fontend </i> </b></h2>
 
 <h3> Link : https://github.com/hayatelallaouy01/Digital_Banking_Project/tree/master/digital-banking-angular-front <h3/>
+
+</Br>
+
+<h4> Strcture de Digital Banking Fontend  <h4/>
+
+![image](https://github.com/hayatelallaouy01/Digital_Banking_Project/assets/123452386/10fdb097-536d-4d20-8c3c-eacf30ad360c)
+
+
 
 <h4> L'interface de listes des cosmtumers <h4/>
 
